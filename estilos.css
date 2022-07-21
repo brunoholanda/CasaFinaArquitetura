@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-image: url(../BootStrap/assets/img/castelo.jpg);
+    background-image: url(assets/img/castelo.jpg);
     background-size: cover; 
     background-position: top center;
     height: 100%;
